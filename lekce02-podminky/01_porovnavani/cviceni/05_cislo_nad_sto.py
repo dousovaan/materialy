@@ -6,3 +6,6 @@
 #    (Vzpomeň si z minula: text z input() převedeš na číslo pomocí int().)
 
 
+cislo = int (input("zadej cislo:"))
+cislo = 100
+print (cislo >=1100)

@@ -4,3 +4,4 @@
 # Vypiš součet všech čísel od 1 do 10.
 
 
+sum(range(1, 6))

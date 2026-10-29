@@ -5,3 +5,4 @@
 #    Číslo nech spočítat Python (napiš do print výpočet, ne hotové číslo).
 
 
+print ("Dohromady to je")

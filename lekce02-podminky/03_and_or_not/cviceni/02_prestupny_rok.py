@@ -6,4 +6,7 @@
 #    Zeptej se na rok a vypiš "Přestupný." / "Nepřestupný.".
 #    (Vyzkoušej 2024, 1900, 2000.)
 
-
+rok = int(input("ŘEKNI MI ČÍSLO? "))
+if rok == (rok/400) or rok == (rok/4):
+    print ("Platný")
+    

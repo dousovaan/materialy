@@ -30,3 +30,5 @@ for cislo in range(3):
 # (pět čísel, poslední je o jedna míň – to už známe z minula):
 for cislo in range(5):
     print(cislo)          # vypíše 0, 1, 2, 3, 4 – každé na svůj řádek
+
+

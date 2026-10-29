@@ -9,3 +9,4 @@
 #    Nahoru na první řádek nezapomeň:  from random import randrange
 
 
+from random import randrange

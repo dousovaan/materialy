@@ -6,3 +6,7 @@
 #    Každý řádek bude vypadat třeba takhle: 2 + 5 = 7
 
 
+for kosticka1 in range (1,7):
+    for kosticka2 in range (1,7):
+        print (kosticka1, "+", kosticka2, "=", kosticka1 + kosticka2)
+

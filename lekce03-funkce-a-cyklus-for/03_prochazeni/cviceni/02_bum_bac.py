@@ -9,3 +9,13 @@
 #    - jinak vypiš samotné číslo.
 
 
+for cislo in range(1,32):
+    if cislo % 15 == 0:
+        print ("BumBác")
+    elif cislo % 3 == 0:
+        print ("Bum")
+    elif cislo % 5 == 0:
+            print ("Bác")
+    else:
+        print(cislo)
+

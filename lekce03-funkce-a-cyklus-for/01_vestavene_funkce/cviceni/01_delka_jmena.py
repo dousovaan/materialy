@@ -3,4 +3,7 @@
 
 # Ulož si do proměnné jmeno své jméno a vypiš, kolik má písmen.
 
+print (len("Anna"))
 
+
+print (range(77))

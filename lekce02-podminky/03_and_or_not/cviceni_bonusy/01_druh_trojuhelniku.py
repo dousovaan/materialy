@@ -11,3 +11,9 @@ b = 5
 c = 8
 
 
+if a == b == c
+    print("Rovnostranný trojúhelník.")
+    elif: a<= b  <= c
+else:
+    print("Rovnostranný trojúhelník.")
+
